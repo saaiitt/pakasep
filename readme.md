@@ -1,7 +1,5 @@
 <h2>SISTEM PAKAR SEPEDA MOTOR YAMAHA GRAND FILANO MENGGUNAKAN METODE FORWARD CHAINING</h2>
  Made By 
- <h2>
- CodeIgniter 3
- PHP 5
- Dompdf
- </h2>
+ <h3>
+ <ul> <li>CodeIgniter 3</li> <li>PHP 5</li> <li>Dompdf</li> </ul>
+ </h3>
